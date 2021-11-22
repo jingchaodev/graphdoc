@@ -1,5 +1,8 @@
 # Static page generator for documenting GraphQL Schema
 
+⚠️ A note about this fork:
+https://github.com/wealthsimple/code/pull/44#issuecomment-975789690
+
 [![build](https://github.com/2fd/graphdoc/workflows/build/badge.svg?branch=master)](https://github.com/2fd/graphdoc/actions?query=workflow%3Abuild+branch%3Amaster+)
 [![coverage](https://coveralls.io/repos/github/2fd/graphdoc/badge.svg?branch=master)](https://coveralls.io/github/2fd/graphdoc?branch=master)
 ![npm](https://img.shields.io/npm/v/@2fd/graphdoc.svg)
@@ -11,6 +14,7 @@
 - [plugin](#plugin)
 - [template](#template)
 - [contributors](#contributors)
+
 
 ## Demos
 
